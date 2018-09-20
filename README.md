@@ -1,5 +1,5 @@
 # Kill-the-Political-Yard-Sings
-
+(Console Game)
 Specifications:
 
 Setting up the game: The game board size can vary between 9 and 18 (square form). The number of elements in the board is limited depending on the size of the board. Number of PYS stupid and smart are limited to 1/8 of the area of the board, the houses to 1/6 of the area. The hardcore mode limited the vision of the player to 3 spaces around. 
